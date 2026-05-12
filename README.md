@@ -1,5 +1,9 @@
 # pw-lei-projeto_Gon-aloFerreira_230001170
 
+Nome do Aluno: Gonçalo Ferreira, Nº230001170
+
+Link para o site no Github Pages: https://g0ncalo0.github.io/pw-lei-projeto_Gon-aloFerreira_230001170/
+
 - Tema e Ideia do Projeto
   
 O projeto FocusBoard é um painel de produtividade pessoal (dashboard) desenhado para ajudar os utilizadores a organizarem o seu dia. A aplicação numa única página (Single Page Application) vai permitir ao utilizador visualizar a meteorologia atual para a sua cidade, ler uma citação inspiradora diária para manter o foco, e gerir uma lista de tarefas (To-Do List).
